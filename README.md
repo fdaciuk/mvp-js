@@ -1,6 +1,6 @@
-# Your Project
+# [YOUR PROJECT]
 
-## Licença
+## License
 The MIT License
 
 Copyright (c) 2014 [YOUR NAME]
